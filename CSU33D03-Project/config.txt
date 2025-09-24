@@ -1,0 +1,7 @@
+NETWORK: 127.0.0.1/8
+INT PORT: 1111
+BANNER: lunar rover
+MAP SERVICE: CONSTRAINTS
+drive: forward, back, left, right
+picture: 10
+END
